@@ -1,4 +1,4 @@
-# Economy Simulator Toolbox
+# Economy Simulator: Reborn Toolbox
 ### This is the toolbox stand in untill the studio feature is ready. 
 All models here can be used freely.
 ## Other model resources:
